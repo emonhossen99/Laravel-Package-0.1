@@ -64,7 +64,7 @@
     },
     "repositories": [{
         "type": "vcs",
-        "url": "https://github.com/emonhossen99/homepage"
+        "url": "https://github.com/emonhossen99/Laravel-Package-0.1"
     }],
     "minimum-stability": "dev",
     "prefer-stable": true
