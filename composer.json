@@ -62,12 +62,10 @@
             "php-http/discovery": true
         }
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "packages/emon/homepage"
-        }
-    ],
-    "minimum-stability": "stable",
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/emonhossen99/homepage"
+    }],
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
